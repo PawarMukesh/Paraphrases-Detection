@@ -31,8 +31,11 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 4. Checking the unique question present in data
 
 ## EXPLOTARY DATA ANALYSIS
+
 **Checking the balance of data**
+
 ![image](https://user-images.githubusercontent.com/101791322/215404955-db24ebc2-999d-45a7-8266-4a15563698b2.png)
+
 **Observation:**
 * Here we are clearly seen the data is imbalanced.
 
